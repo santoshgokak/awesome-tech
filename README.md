@@ -8,3 +8,6 @@ Curated list of awesome libraries, frameworks and resources i am interested in
 
 Clojure
 * https://clojars.org/
+
+Git
+* https://www.atlassian.com/git/tutorials/setting-up-a-repository
