@@ -11,3 +11,9 @@ Clojure
 
 Git
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+Architecture
+* 12-factor app http://12factor.net/
+
+Production metrics
+* http://metrics.dropwizard.io
