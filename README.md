@@ -17,3 +17,7 @@ Architecture
 
 Production metrics
 * http://metrics.dropwizard.io
+* 
+
+Big Data
+* https://prestodb.io/
