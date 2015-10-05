@@ -11,6 +11,7 @@ Clojure
 
 Git
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository
+* http://ndpsoftware.com/git-cheatsheet.html
 
 Architecture
 * 12-factor app http://12factor.net/
