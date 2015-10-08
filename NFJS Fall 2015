@@ -1,0 +1,58 @@
+take away from 12-factor apps:
+
+App with Jetty and Metrics
+https://dropwizard.github.io/metrics
+Run inside docker
+Check logging
+Apply 12 factor rules
+crash only asrhitecture
+https://github.com/heroku/logplex
+https://github.com/fluent/fluentd
+http://www.crashub.org/
+
+
+take away Monitoring and metrics and Logging
+measure everything..how?
+https://twitter.com/mtnygard/status/647114775927914496
+https://dropwizard.github.io/metrics
+https://github.com/Netflix/spectator
+use histograms for load
+Which metrics are useful? try to work on this..justify..
+trace vs debug
+stats-same as -logstash
+graphite-same as -kibana
+
+microservices - http://www.mattstine.com/microservices
+Programming reactive - https://github.com/ReactiveX/RxJava
+
+Tech radar	
+https://github.com/bdargan/techradar
+have litmus tests
+go thru conf slides and learn new stuff
+find tehnologist sahre similiar opions about new 
+
+Building PAAS.
+IAAS : N/W, Storag,Servers,Virtualizn
+PAAS : OS , Runtime, MIDDLEWARE
+Build 12 factor apps.
+Anti-patterns , cental SQL DB,Sticky In-Memory Session, Chatty protocol, Fat compOpenstack,Dook,deis,kubernets,appfroglex objects.
+Patterns - Stateless Micro services, Ephermal instances,CAP DB, fault and latency, auto-scaling, monitor , No SPoF.
+Should ahve - Build/deployment,N/W,DNS, load bal,
+Openstack,Dooku,deis,kubernets,appfrog,mesosphere.
+Go programming lang https://www.reddit.com/r/golang/ https://github.com/golang/go/wiki http://www.javaworld.com/article/2929811/scripting-jvm-languages/whats-the-go-language-really-good-for.html https://www.golang-book.com/books/intro
+lxc vs lxd
+CoreOS
+project atomic
+Look at netflix stack , realization of all patterns defineed in Ship It!!!!!!!
+https://netflix.github.io/ http://stackshare.io/netflix/netflix https://github.com/Netflixh ttp://techblog.netflix.com/2014/11/zerotodocker-easy-way-to-evaluate.html
+https://www.opencontainers.org/
+coreos -> Systemd, etcd,confd,fleet
+http://deis.io/overview/
+kunernetes -> pods ,labels, service dicovery
+
+
+
+
+https://www.reddit.com/r/philosophy/comments/3b1t0q/a_gentle_introduction_to_bayes_theorem_what_is_it/
+
+https://kousenit.wordpress.com/
