@@ -22,3 +22,9 @@ Production metrics
 
 Big Data
 * https://prestodb.io/
+* 
+
+Reactive
+* http://vertx.io/
+* https://github.com/ReactiveX/RxJava
+* http://reactivex.io/
