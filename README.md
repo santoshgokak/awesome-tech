@@ -28,3 +28,6 @@ Reactive
 * http://vertx.io/
 * https://github.com/ReactiveX/RxJava
 * http://reactivex.io/
+
+JS
+* ELM https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db
