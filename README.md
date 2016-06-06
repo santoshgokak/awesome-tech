@@ -31,3 +31,7 @@ Reactive
 
 JS
 * ELM https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db
+* 
+
+Tools
+* https://github.com/jkbrzt/httpie - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
