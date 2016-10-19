@@ -16,6 +16,13 @@ Unit testing
 * https://github.com/Codearte/jfairy
 * https://github.com/Bijnagte/spock-genesis
 
+API testing
+* http://mockrunner.github.io/
+* http://wiremock.org/
+
+Spring
+* https://projects.spring.io/spring-boot/
+
 Clojure
 * https://clojars.org/
 
