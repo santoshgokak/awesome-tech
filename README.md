@@ -6,6 +6,9 @@ Curated list of awesome libraries, frameworks and resources i am interested in
 * https://angularjs.org/
 * http://www.scala-lang.org/
 
+Java
+* http://www.mojohaus.org/animal-sniffer/
+
 Clojure
 * https://clojars.org/
 
