@@ -10,7 +10,11 @@ Java
 * http://www.mojohaus.org/animal-sniffer/
 
 Unit testing
+* http://junit.org
+* http://testng.org/doc/index.html
+* http://spockframework.org/
 * https://github.com/Codearte/jfairy
+* https://github.com/Bijnagte/spock-genesis
 
 Clojure
 * https://clojars.org/
