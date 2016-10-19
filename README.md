@@ -9,6 +9,9 @@ Curated list of awesome libraries, frameworks and resources i am interested in
 Java
 * http://www.mojohaus.org/animal-sniffer/
 
+Unit testing
+* https://github.com/Codearte/jfairy
+
 Clojure
 * https://clojars.org/
 
